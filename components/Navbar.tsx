@@ -22,27 +22,27 @@ export default function Navbar() {
         {/* Navigation */}
         <div className="hidden md:flex items-center gap-10 uppercase tracking-wide text-white font-semibold text-sm">
 
-          <a href="#" className="hover:text-green-300 transition">
+          <a href="/" className="hover:text-green-300 transition">
             Home
           </a>
 
-          <a href="#" className="hover:text-green-300 transition">
+          <a href="/shop" className="hover:text-green-300 transition">
             Shop
           </a>
 
-          <a href="#" className="hover:text-green-300 transition">
+          <a href="/videos" className="hover:text-green-300 transition">
             Videos
           </a>
 
-          <a href="#" className="hover:text-green-300 transition">
+          <a href="/shipping" className="hover:text-green-300 transition">
             Shipping
           </a>
 
-          <a href="#" className="hover:text-green-300 transition">
+          <a href="/about" className="hover:text-green-300 transition">
             About Us
           </a>
 
-          <a href="#" className="hover:text-green-300 transition">
+          <a href="/contact" className="hover:text-green-300 transition">
             Contact
           </a>
 
